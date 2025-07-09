@@ -25,7 +25,7 @@ CMOC faced challenges in managing global operations due to:
   * Automate procurement processes to reduce operational costs
   * Enhance compliance, auditability, and financial reporting
 
-## 44. Strategic Approaches
+## 4. Strategic Approaches
 
 * **SWOT Analysis**:
   Conducted to identify CMOC’s internal strengths and external threats for informed SAP design.
